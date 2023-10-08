@@ -3,3 +3,21 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.image {
+  width: 100%;
+}
+
+
+@media screen and (max-width: 720px)  {
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+}
