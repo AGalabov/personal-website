@@ -25,7 +25,7 @@ function App() {
           🎓 A Master's degree in Technology entrepreneurship at Sofia
           University.
         </li>
-        🕺 Attending Bachata & Salsa courses
+        <li>🕺 Attending Bachata & Salsa courses </li>
         <li>🏓 Professional table tennis player.</li>
         <li>
           🎯 2023 goal: Contribute more to Personal and Open Source projects.
